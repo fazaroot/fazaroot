@@ -32,8 +32,8 @@ Here are the tools and technologies I utilize in my bug-hunting journey:
 
 Let's connect and collaborate in the cybersecurity community:
 
-- **Email:** [faza.email@example.com]
-- **LinkedIn:** [faza-linkedin-profile]
+- **Email:** [fazalia878@gmail.com]
+- **LinkedIn:** []
 - **Twitter:** [@faza_handle]
 
 ## 🚀 Projects & Contributions
