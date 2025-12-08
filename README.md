@@ -1,67 +1,93 @@
-# 🕵️‍♂️ Hey there, I'm Faza! 👋
+# 💀🔥 Faza — Bug Hunter & Cybersecurity Enthusiast
 
-![Bug Hunter](https://img.shields.io/badge/Bug%20Hunter-Newbie-blue) ![Cybersecurity Enthusiast](https://img.shields.io/badge/Cybersecurity-Enthusiast-brightgreen) ![Tech Explorer](https://img.shields.io/badge/Tech-Explorer-orange)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fazaroot&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
 
-Welcome to my GitHub profile! I'm Faza, a passionate newbie bug hunter on a mission to find vulnerabilities and make the digital world safer. Let's explore together:
-
-## 🌟 About Me
-
-- **Name:** Faza
-- **Role:** Newbie Bug Hunter
-- **Skills:** Bug Hunting, Problem Solving, Continuous Learning
-- **Interests:** Cybersecurity, Coding, Ethical Hacking, Technology
-
-## 🔭 Current Focus
-
-I'm dedicated to mastering:
-
-- **Bug Bounty Hunting:** Enhancing my skills to identify and report security flaws.
-- **Cybersecurity Principles:** Building a robust understanding of security fundamentals.
-- **Programming Automation:** Learning Python and JavaScript for efficient bug-hunting processes.
-
-## 🛠️ Tools of the Trade
-
-Here are the tools and technologies I utilize in my bug-hunting journey:
-
-- **Burp Suite:** My trusted companion for web vulnerability scanning and analysis.
-- **OWASP ZAP:** Essential for thorough security testing.
-- **Kali Linux:** A comprehensive toolkit for all things security.
-- **Git:** For seamless version control and collaboration.
-
-## 🌐 Connect with Me
-
-Let's connect and collaborate in the cybersecurity community:
-
-- **Email:** [fazalia878@gmail.com]
-- **LinkedIn:** []
-- **Twitter:** [@faza_handle]
-
-## 🚀 Projects & Contributions
-
-Here are some projects where I've applied my bug-hunting expertise:
-
-- **WhatsApp Bot:** [Project Name](link) - Developed a feature-rich WhatsApp bot using Baileys library for message handling, automation, and interaction.
-
-## 📚 Favorite Resources
-
-These resources have been instrumental in my learning journey:
-
-- [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
-- [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
-- [HackerOne Platform](https://www.hackerone.com/)
-
-## 📊 GitHub Stats
-
-![Faza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazaroot&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaroot&layout=compact&theme=radical)
-
-## 🌟 Fun Facts
-
-- When I'm not hunting bugs, you can find me exploring new technologies or enjoying [your hobby].
-- I'm a firm believer in continuous improvement and lifelong learning!
+<p align="center">
+  <img src="https://img.shields.io/badge/Bug%20Hunter-Newbie-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech-Explorer-orange?style=for-the-badge"/>
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=fazaroot&color=blue)
+# 👋 Hey, I'm **Faza**
 
-Together, let's make the digital realm safer, one bug at a time!
+I'm a passionate **Newbie Bug Hunter** exploring the world of cybersecurity.  
+I love breaking things (ethically), learning continuously, and making the internet safer.
+
+---
+
+## 🌟 **About Me**
+
+- **Name:** Faza  
+- **Role:** Beginner Bug Hunter  
+- **Skills:** Bug Hunting, Problem Solving, Continuous Learning  
+- **Interests:** Cybersecurity, Ethical Hacking, Automation, Technology
+
+---
+
+## 🔥 **Current Focus**
+
+I'm currently working on:
+
+- **Bug Bounty Hunting** — learning how to identify and responsibly report vulnerabilities  
+- **Cybersecurity Fundamentals** — building a strong foundation  
+- **Automation Development** — Python & JS for simplifying recon and testing  
+
+---
+
+## 🛠️ **Tools of the Trade**
+
+Here are the tools I frequently use:
+
+- 🔍 **Burp Suite** — advanced web vulnerability testing  
+- 🛡 **OWASP ZAP** — automated scanning  
+- 🐉 **Kali Linux** — full security toolkit  
+- 📦 **Git** — version control for projects and reports
+
+---
+
+## 🚀 **Projects & Contributions**
+
+- **WhatsApp Bot (Baileys Based)**  
+  Automating message handling, security logic, and interaction flows.
+
+---
+
+## 📚 **Favorite Learning Resources**
+
+- 📘 [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)  
+- 🔐 [OWASP Top Ten](https://owasp.org/www-project-top-ten/)  
+- 🐞 [HackerOne Platform](https://www.hackerone.com/)
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fazaroot&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazaroot&layout=compact&theme=radical" height="165">
+</p>
+
+---
+
+## 🌐 **Connect With Me**
+
+- **Email:** fazalia878@gmail.com  
+- **Twitter:** @faza_handle  
+- **LinkedIn:** *Coming Soon*
+
+---
+
+## 🌟 **Fun Facts**
+
+- When I'm not hunting bugs, I'm exploring new tech or learning something random.  
+- I believe in improving **1% every day** — small steps, huge results.
+
+---
+
+<p align="center">
+  🔥 <b>Together, let's make the digital world safer — one bug at a time.</b> 🔥
+</p>
