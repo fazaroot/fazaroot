@@ -1,7 +1,3 @@
-<!-- ╔══════════════════════════════════════════╗
-     ║         FAZA — BUG HUNTER DARK MODE      ║
-     ╚══════════════════════════════════════════╝ -->
-
 <h1 align="center">💀 Faza — Bug Hunter & Cybersecurity Explorer</h1>
 
 <p align="center">
@@ -25,58 +21,75 @@ I break things responsibly, explore vulnerabilities, and constantly improve my c
 
 ---
 
-## 🔥 Current Focus
+## 🛠 Tech Stack & Hunting Workflow
 
-- Deepening bug bounty understanding  
-- Strengthening cybersecurity fundamentals  
-- Building automation tools (Python & JavaScript)  
-- Practicing on real-world scenarios & CTFs
+```mermaid
+flowchart LR
+    classDef tools fill:#1a1a1a,stroke:#8A2BE2,stroke-width:2px,color:#fff;
+    classDef phase fill:#4B0082,stroke:#fff,stroke-width:1px,color:#fff;
+
+    A[Reconnaissance]:::phase --> B[Analysis]:::phase
+    B --> C[Vulnerability Discovery]:::phase
+    C --> D[Responsible Disclosure]:::phase
+
+    subgraph Tools_Belt [Security Toolkit]
+    T1[Burp Suite]:::tools
+    T2[OWASP ZAP]:::tools
+    T3[Kali/Parrot]:::tools
+    T4[Python/JS]:::tools
+    end
+```
 
 ---
 
-## 🛠 Tools I Use
+## 🔥 Current Focus & Stats
 
-| Category | Tools |
-|---------|-------|
-| 🔍 **Web Testing** | Burp Suite, OWASP ZAP |
-| 🐉 **OS & Security** | Kali Linux, Parrot OS |
-| 🧰 **Automation** | Python, JavaScript |
-| 📦 **Version Control** | Git, GitHub |
+| Category | Status | Target |
+| :--- | :--- | :--- |
+| **Bug Bounty** | 🟢 Learning | OWASP Top 10 |
+| **Automation** | 🟡 Developing | Python Scrapers |
+| **CTF / Labs** | 🟢 Active | HackTheBox / TryHackMe |
+| **OS Security** | 🟢 Active | Linux Kernel Hardening |
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🗡 WhatsApp Bot (Baileys)
-A feature-rich automation bot built with Baileys, enhancing message handling and dynamic interactions.
+*Advanced automation engine.*
+* Built with **Baileys (Node.js)**.
+* Dynamic interaction & automated workflow.
+* Scalable message handling architecture.
+
+### 🇩🇪 German Language Roadmap
+*Educational repository for LPK Standards.*
+* Visualized using Mermaid.js.
+* Focused on professional & technical vocabulary.
 
 ---
 
-## 📚 Learning Resources I Love
+## 🛡 Security Philosophy
 
-- 🔸 [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)  
-- 🔸 [OWASP Top Ten](https://owasp.org/www-project-top-ten/)  
-- 🔸 [HackerOne](https://www.hackerone.com/)
-
----
-
+> "Security is not a product, but a process. Mastery is built through consistency and ethical responsibility."
 
 ---
 
 ## 🌐 Connect With Me
 
-- ✉️ Email: **fazalia878@gmail.com**  
-- 🐦 Twitter: **@faza_handle**  
-- 🔗 LinkedIn: *Coming Soon*
+* ✉️ **Email:** `fazalia878@gmail.com`
+* 🐦 **Twitter:** `@faza_handle`
+* 🛠 **HackerOne:** *In Progress*
 
 ---
 
 ## 🕶 Fun Facts
 
-- I like exploring tech at night—dark mode is life.  
-- I learn something new every day, even if it's small.  
-- My motto: **“Mastery is built through consistency.”**
-
----
+* **Dark Mode Enthusiast:** I believe code looks better when the sun is down.
+* **Forever Student:** If it's tech, I'm interested.
+* **Methodical:** I don't just find bugs; I study why they exist.
 
 <h3 align="center">⚡ Stay curious. Stay ethical. Keep hunting. ⚡</h3>
+
+---
+© 2026 FazaRoot — Built for Performance & Security
+
