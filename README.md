@@ -95,9 +95,7 @@ flowchart LR
 
 </div>
 
-> 💡 Card di atas ditenagai server publik `github-readme-stats.vercel.app` (punya komunitas, gratis) — kadang kena rate-limit dan gambarnya nggak muncul (broken icon). Bukan salah file kamu. Fix permanen: deploy instance sendiri di Vercel (5 menit, gratis) — tinggal fork repo `anuraghazra/github-readme-stats` → Import ke Vercel → ganti domain di link kamu.
 
----
 
 ## 🐍 Skill Matrix
 
