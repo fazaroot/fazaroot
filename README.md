@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/Bug_Hunter-Newbie-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-9400D3?style=for-the-badge&logo=owasp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tech-Explorer-4B0082?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Actively_Hunting_🎯-27c93f?style=for-the-badge"/>
 
 </div>
 
@@ -94,17 +95,15 @@ flowchart LR
 
 </div>
 
-> 💡 Some cards may show zero data until your repos have public activity — that's normal for a fresh profile.
+> 💡 Card di atas ditenagai server publik `github-readme-stats.vercel.app` (punya komunitas, gratis) — kadang kena rate-limit dan gambarnya nggak muncul (broken icon). Bukan salah file kamu. Fix permanen: deploy instance sendiri di Vercel (5 menit, gratis) — tinggal fork repo `anuraghazra/github-readme-stats` → Import ke Vercel → ganti domain di link kamu.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Skill Matrix
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fazaroot/fazaroot/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="assets/skill-matrix.svg" width="480" alt="Animated skill matrix scan"/>
 </div>
-
-> ⚙️ **Setup required** — this snake animation needs a GitHub Action to generate it. Instructions below ⬇️
 
 ---
 
