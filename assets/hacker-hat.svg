@@ -1,0 +1,71 @@
+<svg width="460" height="230" viewBox="0 0 460 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#00FF9C"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- terminal window background -->
+  <rect x="0" y="0" width="460" height="230" rx="10" fill="#0d1117" stroke="#8A2BE2" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="460" height="24" rx="10" fill="#161b22"/>
+  <circle cx="16" cy="12" r="5" fill="#ff5f56"/>
+  <circle cx="34" cy="12" r="5" fill="#ffbd2e"/>
+  <circle cx="52" cy="12" r="5" fill="#27c93f"/>
+  <text x="230" y="16" font-family="Fira Code, monospace" font-size="11" fill="#8b949e" text-anchor="middle">faza@kali: ~/hacking</text>
+
+  <!-- ascii hacker hat, monospace, glowing -->
+  <g font-family="Fira Code, Courier New, monospace" font-size="13" fill="url(#glow)" filter="url(#softGlow)">
+    <text x="150" y="55" opacity="0">    .-'''''-.
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.02;0.10;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="150" y="70" opacity="0">  .'   _   '.
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.07;0.15;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="150" y="85" opacity="0"> /  .' '.  \
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.12;0.20;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="150" y="100" opacity="0">|   |   |   |
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.17;0.25;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="130" y="115" opacity="0">'.  '._.'  .'
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22;0.30;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="110" y="130" opacity="0">  '-.......-'
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.27;0.35;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="90" y="145" opacity="0">________/     \________
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.32;0.40;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- pulsing outer glow ring behind hat -->
+  <ellipse cx="230" cy="100" rx="150" ry="70" fill="none" stroke="#8A2BE2" stroke-width="1" opacity="0.15">
+    <animate attributeName="rx" values="140;160;140" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.05;0.25;0.05" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- terminal prompt lines -->
+  <g font-family="Fira Code, Courier New, monospace" font-size="13">
+    <text x="20" y="180" fill="#00FF9C" opacity="0">root@kali:~# whoami
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.45;0.52;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="20" y="200" fill="#c9d1d9" opacity="0">&gt; faza [ethical_hacker] 🎩
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.55;0.62;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="215" y="188" width="8" height="14" fill="#8A2BE2" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0;1;0;1;0;1;0" keyTimes="0;0.6;0.65;0.70;0.75;0.80;0.85;0.90;0.95;1" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
