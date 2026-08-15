@@ -3,9 +3,12 @@
 <!-- Animated wave header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Faza%20%7C%20Bug%20Hunter&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Explorer%20%7C%20Ethical%20Hacker&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing animation -->
+<!-- Animated ASCII hacker-hat terminal (real SVG animation, see assets/hacker-hat.svg) -->
+<img src="assets/hacker-hat.svg" width="460" alt="Animated ASCII hacker hat terminal"/>
+
+<!-- Typing tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Breaking+things...+ethically+%F0%9F%94%93;Newbie+Bug+Hunter+%7C+OWASP+Top+10;Recon+%E2%86%92+Analysis+%E2%86%92+Exploit+%E2%86%92+Report;Stay+curious.+Stay+ethical.+Keep+hunting.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Breaking+things...+ethically+%F0%9F%94%93;Newbie+Bug+Hunter+%7C+OWASP+Top+10;Recon+%E2%86%92+Analysis+%E2%86%92+Exploit+%E2%86%92+Report;Stay+curious.+Stay+ethical.+Keep+hunting.+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=fazaroot&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
