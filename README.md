@@ -82,18 +82,7 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fazaroot&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=9400D3&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fazaroot&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=9400D3&currStreakLabel=8A2BE2" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazaroot&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fazaroot&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=9400D3&point=ffffff" width="98%"/>
-
-</div>
 
 
 
